@@ -1,10 +1,17 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: template-repository
-Source: https://github.com/deepin-community/template-repository
+Upstream-Name: gnome-common
+Source: https://download.gnome.org/sources/gnome-common/
 
 Files: *
-Copyright: 2023 Tsic404 <liuheng@deepin.org>
-License: GPL-2+
+Copyright: 1998-2001 Martin Baulig <martin@home-of-linux.org>
+           1997-2001 Eliot Lee <sopwith@redhat.com>
+           1997-1998 Erik Troan <ewt@src.gnome.org>
+           1998-2000 Raja R Harinath <harinath@src.gnome.org>
+           1998 Tom Tromey <tromey@cygnus.com>
+           1998-2006 James Henstridge <james@jamesh.id.au>
+           2000-2002 Dan Winship <danw@src.gnome.org>
+           2007-2011 Christian Persch <chpe@gnome.org>
+License: GPL-2.0+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 2 of the License, or
